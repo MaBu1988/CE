@@ -1,2 +1,2 @@
-# CE
+# Collaborative Environment
 Collaborative Environment
